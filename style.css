@@ -1,0 +1,223 @@
+*{
+    font-family: 'Karla', sans-serif;
+}
+
+body{
+    width: 100%;
+}
+
+.header{
+    background: url(./image/3.jpg);
+    background-repeat: no-repeat;
+    height: 1100px;
+    background-size: cover;
+    margin:  -10px;
+}
+
+.title{
+    color: white;
+    float: left;
+    font-size: 100px;
+    padding-top: 15rem;
+    padding-left: 22rem;
+}
+
+.sub1{
+    margin: 200px 200px ;
+    width: 80vw;
+    height: 100%;
+    display: flex;
+    justify-content:space-around;
+    align-content: center;
+}
+
+.sub2{
+    margin: 200px 200px ;
+    width: 80vw;
+    height: 100%;
+    display: flex;
+    justify-content:space-around;
+    align-content: center;
+}
+
+.sub3{
+    background: url(./image/opaco.jpg);
+    background-repeat: no-repeat;
+    height: 1000px;
+    background-size: cover;
+    margin: -10px -10px 0 -50px ;
+}
+
+.sub-title{
+    font-size: 50px;
+    color: black;
+    margin-left: 100px;
+}
+
+.sub-title3{
+    margin-top: 150px;
+    font-size: 50px;
+    color: white;
+    margin-left: 100px;
+}
+
+
+.first{
+    color: #15b059;
+
+}
+
+.second{
+    color: #160667;
+}
+
+.text1 p{
+    margin-top: -50px;
+    font-size: 30px;
+    width: 90%;
+}
+
+.text2 p{
+    margin-top: -50px;
+    font-size: 30px;
+    width: 90%;
+}
+
+.text3 p{
+    margin-top: -50px;
+    font-size: 30px;
+    width: 90%;
+    color: white;
+}
+
+.imge1{
+    background: url(./image/1.jpg);
+    background-repeat: no-repeat;
+    margin: 5rem 0rem 0rem 5rem;
+    width: 60%;
+    height: 75vh;
+    float: right;
+}
+.imge2{
+    background: url(./image/2.jpg);
+    background-repeat: no-repeat;
+    margin: 5rem 0rem 5rem 5rem;
+    width: 60%;
+    height: 80vh;
+    float: left;
+}
+
+
+.clear-float{
+    clear: both;
+}
+
+.text1{
+    width: 50%;
+    float: left;
+}
+
+.text2{
+    width: 40%;
+    float: left;
+}
+
+.text3{
+    width: 50%;
+    float: right;
+}
+
+a{
+    font-size:  30px;
+    margin-top: 10px;
+    margin-left: -10px;
+    padding: 15px 40px 15px 40px;
+    color: white;
+    background-image:linear-gradient(30deg,#15b059, #160667);
+    border-radius: 30px;
+    text-decoration: none;
+    
+}
+
+a:hover{
+color: black;    
+}
+
+.translate{
+text-align: center;
+margin-left: 5rem;
+float:right;
+position: relative;
+bottom: 8rem;
+left: 8rem;
+}
+
+.footer{
+    background-image:linear-gradient(30deg,#15b059, #160667);
+}
+
+.opciones{
+    padding-bottom: 550px;
+    border-bottom:solid 2px rgb(255, 255, 255);
+}
+
+.list1{
+    color: white;
+    font-size: 30px;
+    float:left;
+    padding-top: 100px;
+    padding-left: 400px;
+}
+
+.list2{
+    color: white;
+    font-size: 30px;
+    float:left;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.list3{
+    color: white;
+    font-size: 30px;
+    float:left;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.list4{
+    color: white;
+    font-size: 30px;
+    float:left;
+    padding-top: 100px;
+    padding-left: 200px;
+}
+
+.listh{
+    margin-bottom: 100px;
+}
+
+li{
+    list-style: none;
+    margin: 15px;
+}
+
+.fin{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    margin-left: 350px;
+}
+
+.fecha{
+    float: left;
+    
+}
+
+.correo{
+    float: left;
+    padding-left: 1100px;
+}
+
+
+
